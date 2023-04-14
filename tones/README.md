@@ -1,0 +1,1 @@
+All of the patches ZUN used in his OPNA PMD music, in .tone format. Patches with a dash and a number after it are variants of a patch without a dash and are sorted chronologically (see tones.xlsx). Patch names inside the .tone files don't include the variant number.
