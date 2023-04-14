@@ -1,0 +1,1 @@
+In this folder you can find an AutoHotkey 2.0 script made to extract patches from songs in bulk using YM2608 Tone Editor (extract.ahk). Make sure to check the folders it uses and empty the output folder before running. 

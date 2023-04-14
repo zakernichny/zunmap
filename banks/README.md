@@ -1,0 +1,1 @@
+Patches from the tones folder compiled into all of the bank formats YM2608 Tone Editor supports. Dashed patch variant names are added.

@@ -1,0 +1,1 @@
+Exctracted patches will be placed here in separate folders for each input file. Make sure this folder is empty before running, overwrite prompt will break the script!

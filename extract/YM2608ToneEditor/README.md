@@ -1,0 +1,1 @@
+YM2608 Tone Editor's working folder (https://github.com/rerrahkr/YM2608-Tone-Editor). Extract its binary (YM2608ToneEditor.exe) here. Tested with version 0.4.3.
